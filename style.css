@@ -34,3 +34,10 @@
     background-color: #c1ff5d;
     color: #17c543;
 }
+
+p {
+    background-color: gold;
+    color: sienna;
+    text-align: center;
+    font-size: 50px;
+}
