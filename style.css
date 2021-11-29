@@ -6,7 +6,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.main-list {
+.list {
     text-align: center;
     background-color: #0ff0ff;
     color: hsl(10, 90, 40);
@@ -28,4 +28,9 @@
 .Ingredients.Title {
     background-color: mediumspringgreen;
     color: #00c21a;
+}
+
+.ingredients.list {
+    background-color: #c1ff5d;
+    color: #17c543;
 }
